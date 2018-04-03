@@ -1,0 +1,11 @@
+DIMENSIONALITY REDUCTION
+Principal Component Analysis
+Singular Value Decomposition
+Sammon’s Mapping
+
+
+
+FAETURE SELECTOIN ALGOs
+Filter Methods (Chi squared test, information gain & correlation coefficient scores)
+Wrapper Methods (recursive feature elimination algorithm)
+Embedded Methods(LASSO, Elastic Net and Ridge Regression)
